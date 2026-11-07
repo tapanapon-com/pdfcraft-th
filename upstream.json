@@ -1,0 +1,37 @@
+{
+  "id": "pdfcraft",
+  "name": "PdfCraft",
+  "repository": "https://github.com/tapanapon-com/pdfcraft-th",
+  "status": "documentation-only",
+  "containsApplicationSource": false,
+  "thaiVersion": null,
+  "thaiArticle": null,
+  "upstream": {
+    "repository": "https://github.com/storytold/pdfcraft",
+    "releaseTag": "v0.19.0",
+    "releaseUrl": "https://github.com/storytold/pdfcraft/releases/tag/v0.19.0",
+    "publishedAt": "2026-11-06T20:21:58Z",
+    "checkedAt": "2026-11-07T03:59:09.433727+00:00",
+    "sourceCommit": "f42fda734243b66f54db87923d7c981d5221419e",
+    "sourceVersion": "0.18.1",
+    "macDownload": "https://github.com/storytold/pdfcraft/releases/download/v0.19.0/pdfcraft-0.19.0-macos-universal.dmg",
+    "windowsDownload": "https://github.com/storytold/pdfcraft/releases/download/v0.19.0/pdfcraft-0.19.0-windows-x64.msi",
+    "portableDownload": "https://github.com/storytold/pdfcraft/releases/download/v0.19.0/pdfcraft-0.19.0-windows-x64-portable.zip",
+    "checksums": "https://github.com/storytold/pdfcraft/releases/download/v0.19.0/SHA256SUMS.txt",
+    "changes": [
+      {
+        "text": "เตรียมเรนเดอร์หน้าที่อยู่ถัดจากตำแหน่งเลื่อนในมุมมองต่อเนื่อง",
+        "source": "https://github.com/storytold/pdfcraft/pull/6063"
+      },
+      {
+        "text": "ปรับการเลื่อนด้วยล้อเมาส์ให้ต่อเนื่องและรักษาระยะการเลื่อนอย่างละเอียด",
+        "source": "https://github.com/storytold/pdfcraft/pull/6031"
+      },
+      {
+        "text": "ปรับ Optimize ให้เข้ารหัสภาพ JBIG2 เฉพาะรูปแบบที่ตัวอ่านของแอปรองรับ",
+        "source": "https://github.com/storytold/pdfcraft/pull/5511"
+      }
+    ]
+  },
+  "versionLog": "https://tapanapon.com/one-per-craft/versions#pdfcraft"
+}
