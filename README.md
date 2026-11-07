@@ -79,7 +79,7 @@ PdfCraft TH is an independent Thai-edition preparation project for [PdfCraft by 
 
 ### Features and workflow
 
-อ่าน จัดหน้า รวม แยก และทำงานกับเอกสาร PDF. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
+Read PDFs, organize pages, combine and split documents, and use the upstream document tools. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
 
 ### Downloads and installation
 
