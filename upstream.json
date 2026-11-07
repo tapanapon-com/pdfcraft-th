@@ -31,7 +31,25 @@
         "text": "ปรับ Optimize ให้เข้ารหัสภาพ JBIG2 เฉพาะรูปแบบที่ตัวอ่านของแอปรองรับ",
         "source": "https://github.com/storytold/pdfcraft/pull/5511"
       }
+    ],
+    "releaseCheckedAt": "2026-11-07T15:57:45.414988+00:00",
+    "releaseHistory": [
+      {
+        "tag": "v0.19.0",
+        "publishedAt": "2026-11-06T20:21:58Z",
+        "url": "https://github.com/storytold/pdfcraft/releases/tag/v0.19.0"
+      },
+      {
+        "tag": "v0.18.2",
+        "publishedAt": "2026-11-05T01:47:43Z",
+        "url": "https://github.com/storytold/pdfcraft/releases/tag/v0.18.2"
+      },
+      {
+        "tag": "v0.18.1",
+        "publishedAt": "2026-11-04T03:51:06Z",
+        "url": "https://github.com/storytold/pdfcraft/releases/tag/v0.18.1"
+      }
     ]
   },
-  "versionLog": "https://tapanapon.com/one-per-craft/versions#pdfcraft"
+  "versionLog": "https://github.com/tapanapon-com/pdfcraft-th/blob/main/docs/version-log.md"
 }
